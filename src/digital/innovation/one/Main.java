@@ -8,6 +8,6 @@ public class Main {
 
         Calculadora calculadora = new Calculadora();
 
-        System.out.println(calculadora.mult(3,3));
+        System.out.println(calculadora.mult(3, 3));
     }
 }
